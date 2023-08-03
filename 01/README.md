@@ -7,7 +7,7 @@ could represent.  Return the answer in **any order**
 A mapping of digits to letters (just like on the telephone buttons)
 is given below.  Note that 1 does not map to any letters.
 
-![Telephone Keypad](keypad.png)
+![Telephone Keypad](keypad.png width="400px")
 
 ### Example 1:
 ```
